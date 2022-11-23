@@ -51,7 +51,7 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="text-h6">
-            project maneger
+            project manager
           </v-list-item-title>
           <v-list-item-subtitle>
             일루미나티
